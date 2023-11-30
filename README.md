@@ -5,4 +5,4 @@ WHMCS Plus is a plugin for Firefox that updates the HTML title to show the ticke
 Additional features may be added later on to improve functionality. 
 
 ## Installation
-Click the link [here](#) to install
+Click the link [here](https://github.com/Evan-Slable/WHMCS-Plus/blob/main/67789f0f5c7b4def97c4-1.0.xpi) to install
