@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "WHMCS+",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["https://clients.slable.com/*"],
+      "js": ["titler.js"]
+    }
+  ],
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "Evan@slable.com",
+      "strict_min_version": "91.1.0"
+    }
+  }
+}
+
